@@ -1,2 +1,2 @@
-# Banco_Dados_Conection_JDBC_JPA
-Aula Digital Innovation One
+# Projeto
+Repositório com passo a passo para conexão com banco de dados e instalação do mesmo.
